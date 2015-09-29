@@ -5,4 +5,3 @@ node_js:
 notifications:
   webhooks: https://qa1.kore.com/hooks/7b349a4d1e2f8335fa32d3bb74f79ce6
   webhooks: https://app.kore.com/hooks/16e3ef38d98398dc5d42b0c54f8044f8
-  webhooks: https://qa1.kore.com/hooks/b5b6570dc98e29ed4ced186514d2087e
