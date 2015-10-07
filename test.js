@@ -4,7 +4,7 @@ describe('treewalker test case', function() {
 	
 	var node = {
 		name : 'parent',
-		childs : [{
+		childs : 
 			name : 'child-1',
 			childs : []
 		}, {
